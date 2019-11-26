@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="test" language="en" table="x_a1_test">
+    <sys_documentation element="user" label="User" language="en" table="var__m_topic_variable_de4b6f12701d0010964fc9f5415f505f">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>user</element>
             <help/>
             <hint/>
-            <label>test</label>
+            <label>User</label>
             <language>en</language>
-            <name>x_a1_test</name>
-            <plural>tests</plural>
+            <name>var__m_topic_variable_de4b6f12701d0010964fc9f5415f505f</name>
+            <plural>User</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-25 10:28:20</sys_created_on>
-            <sys_id>212cab52701d0010964fc9f5415f507b</sys_id>
+            <sys_created_on>2019-11-26 07:11:15</sys_created_on>
+            <sys_id>124b6f12701d0010964fc9f5415f506a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>test</sys_name>
+            <sys_name>User</sys_name>
             <sys_package display_value="a1" source="x_a1">a38afa8e70110010964fc9f5415f502b</sys_package>
             <sys_policy/>
             <sys_scope display_value="a1">a38afa8e70110010964fc9f5415f502b</sys_scope>
-            <sys_update_name>sys_documentation_x_a1_test__en</sys_update_name>
+            <sys_update_name>sys_documentation_var__m_topic_variable_de4b6f12701d0010964fc9f5415f505f_user_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-25 10:28:20</sys_updated_on>
+            <sys_updated_on>2019-11-26 07:11:15</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <category/>
+        <connect_queue/>
+        <description/>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{
+  "graph_api_version": "1.0.13.np4",
+  "goals": {
+    "1f3a88eebadd42e6a01b2198da1369e3": {
+      "id": "1f3a88eebadd42e6a01b2198da1369e3",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "primary",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "ab2ca8f20dc74b6ebb83a5e15529e106": {
+          "id": "ab2ca8f20dc74b6ebb83a5e15529e106",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "35f4c6139d3a4fc5a339408ce895df69": {
+          "id": "35f4c6139d3a4fc5a339408ce895df69",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "4718919de99c4312a2603bbee6b9ad11": {
+          "id": "4718919de99c4312a2603bbee6b9ad11",
+          "stepType": "Prompt",
+          "name": "",
+          "prompt": {
+            "value": "",
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "optional": false,
+          "withNluUserInput": false,
+          "skipIfFulfilled": false,
+          "entity": "",
+          "variableId": "13db45e8a6984d84aef12b7d0329a7b7"
+        }
+      },
+      "edges": [
+        {
+          "id": "caefb1e40077464ea82926d8502157c2",
+          "edgeType": "Edge",
+          "source": "ab2ca8f20dc74b6ebb83a5e15529e106",
+          "target": "4718919de99c4312a2603bbee6b9ad11",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "e1eccf1391c9485990ada7904a7d1c77",
+          "edgeType": "Edge",
+          "source": "4718919de99c4312a2603bbee6b9ad11",
+          "target": "35f4c6139d3a4fc5a339408ce895df69",
+          "sourcePort": "",
+          "targetPort": ""
+        }
+      ]
+    }
+  },
+  "variables": {
+    "13db45e8a6984d84aef12b7d0329a7b7": {
+      "id": "13db45e8a6984d84aef12b7d0329a7b7",
+      "name": "",
+      "label": "Image 59",
+      "varType": "image",
+      "category": "vaInputs"
+    }
+  }
+}</graph>
+        <key_phrases>test</key_phrases>
+        <live_agent>false</live_agent>
+        <name>test</name>
+        <nlu_intent/>
+        <nlu_model/>
+        <nlu_provider/>
+        <roles/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-26 07:11:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>de4b6f12701d0010964fc9f5415f505f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="a1" source="x_a1">a38afa8e70110010964fc9f5415f502b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="a1">a38afa8e70110010964fc9f5415f502b</sys_scope>
+        <sys_update_name>sys_cb_topic_de4b6f12701d0010964fc9f5415f505f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-26 07:11:22</sys_updated_on>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=de4b6f12701d0010964fc9f5415f505f"/>
+</record_update>
