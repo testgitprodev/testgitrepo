@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 10:28:20</sys_created_on>
+        <sys_id>afcecbce70510010964fc9f5415f50b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_a1_test.x_a1.test_user</sys_name>
+        <sys_package display_value="a1" source="x_a1">a38afa8e70110010964fc9f5415f502b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="a1">a38afa8e70110010964fc9f5415f502b</sys_scope>
+        <sys_security_acl display_value="x_a1_test">57cecbce70510010964fc9f5415f50b4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_afcecbce70510010964fc9f5415f50b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 10:28:20</sys_updated_on>
+        <sys_user_role display_value="x_a1.test_user" name="x_a1.test_user">13ce4bce70510010964fc9f5415f50f3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test">1fcecbce70510010964fc9f5415f50a6</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_a1_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_a1.test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 10:28:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d3cecbce70510010964fc9f5415f50aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="a1" source="x_a1">a38afa8e70110010964fc9f5415f502b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="a1">a38afa8e70110010964fc9f5415f502b</sys_scope>
+        <sys_update_name>sys_app_module_d3cecbce70510010964fc9f5415f50aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 10:28:19</sys_updated_on>
+        <timeline_page/>
+        <title>tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

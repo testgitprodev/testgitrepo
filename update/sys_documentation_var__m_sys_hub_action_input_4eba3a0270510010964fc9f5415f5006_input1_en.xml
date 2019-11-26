@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="input1" label="input1" language="en" table="var__m_sys_hub_action_input_4eba3a0270510010964fc9f5415f5006">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>input1</element>
+            <help/>
+            <hint/>
+            <label>input1</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_4eba3a0270510010964fc9f5415f5006</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2019-11-25 09:01:38</sys_created_on>
+            <sys_id>d1faba0270510010964fc9f5415f5000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>input1</sys_name>
+            <sys_package display_value="a1" source="x_a1">a38afa8e70110010964fc9f5415f502b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="a1">a38afa8e70110010964fc9f5415f502b</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_4eba3a0270510010964fc9f5415f5006_input1_en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2019-11-25 09:01:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
